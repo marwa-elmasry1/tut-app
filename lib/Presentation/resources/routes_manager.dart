@@ -4,7 +4,7 @@ import 'package:tut_app/Presentation/Register/register_view.dart';
 import 'package:tut_app/Presentation/Splash/splash_view.dart';
 import 'package:tut_app/Presentation/detail/detail_view.dart';
 import 'package:tut_app/Presentation/home/home_view.dart';
-import 'package:tut_app/Presentation/on_bording/on_bording_view.dart';
+import 'package:tut_app/Presentation/on_bording/view/on_bording_view.dart';
 import 'package:tut_app/Presentation/reset_pass/reset_pass_view.dart';
 import 'package:tut_app/Presentation/resources/color_manger.dart';
 import 'package:tut_app/Presentation/resources/strings_manager.dart';

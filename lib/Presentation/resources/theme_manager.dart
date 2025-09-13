@@ -54,13 +54,17 @@ ThemeData getAppTheme() {
         color: ColorManager.kDarkGreyColor,
         fontSize: FontSizeManager.s16,
       ),
-      titleMedium: getMediumStyle(
-        color: ColorManager.kLightGreyCrolor,
+      headlineMedium: getRegularStyle(
+        color: ColorManager.kDarkGreyColor,
         fontSize: FontSizeManager.s14,
       ),
-      displayLarge: getLightStyle(
-        color: ColorManager.white,
-        fontSize: FontSizeManager.s22,
+      titleMedium: getMediumStyle(
+        color: ColorManager.kPrimaryColor,
+        fontSize: FontSizeManager.s16,
+      ),
+      displayLarge: getSemiBoldStyle(
+        color: ColorManager.kDarkGreyColor,
+        fontSize: FontSizeManager.s16,
       ),
       bodyLarge: getRegularStyle(color: ColorManager.gery1),
       bodySmall: getRegularStyle(color: ColorManager.gery2),
